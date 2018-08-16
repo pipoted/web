@@ -1,0 +1,16 @@
+HOSTNAME = '127.0.0.1'
+PORT     = '3306'
+DATABASE = 'flask_sql'
+USERNAME = 'root'
+PASSWORD = 'xzx199110'
+
+DB_URI = "mysql+pymysql://{username}:{password}@{host}:{port}/{database}?charset=utf8".\
+	format(
+	username = USERNAME,
+	password = PASSWORD,
+	host     =  HOSTNAME,
+	port     =  PORT,
+	database =  DATABASE
+)
+
+SQLALCHEMY_DATABASE_URI = DB_URI

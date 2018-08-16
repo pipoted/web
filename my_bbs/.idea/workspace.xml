@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4faf3835-be18-4911-9802-45291a0359aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ICBC/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICBC/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICBC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICBC/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICBC/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICBC/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICBC/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICBC/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICBC/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ICBC/templates/regist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alembic_test/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alembic_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alembic_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alembic_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alembic_test/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs_test/.idea/dictionaries/xiaozhixin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs_test/apps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs_test/apps/cms/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs_test/apps/cms/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs_test/apps/cms/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs_test/apps/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs_test/apps/front/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs_test/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs_test/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bbs_test/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/.idea/dictionaries/xiaozhixin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/foreigen_key.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/news.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/query_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/sql_op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/sql_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/subdoadmin_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common_project_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common_project_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common_project_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common_project_test/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common_project_test/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common_project_test/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common_project_test/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common_project_test/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common_project_test/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common_project_test/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common_project_test/templates/regist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../content_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../content_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../content_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cookies_demo/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cookies_demo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cookies_demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../filter_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../filter_test/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../filter_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../filter_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../filter_test/templates/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-migrate_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-migrate_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-migrate_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-migrate_test/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-migrate_test/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-migrate_test/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-migrate_test/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-script_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-script_test/.idea/dictionaries/xiaozhixin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-script_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-script_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-script_test/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-script_test/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-script_test/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-script_test/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-sqlalchemy_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-sqlalchemy_test/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-sqlalchemy_test/.idea/dictionaries/xiaozhixin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-sqlalchemy_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask-sqlalchemy_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/login_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/response_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/template_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/templates/href_test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/templates/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_restful_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_restful_test/.idea/dictionaries/xiaozhixin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_restful_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_restful_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_restful_test/articleviews.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_restful_test/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_restful_test/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_restful_test/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_restful_test/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_restful_test/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_template/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_template/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_template/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_template/templates/block_test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_template/templates/include_test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_template/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_template/test_hello_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_test/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../href_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../href_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../href_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../href_test/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../href_test/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login_test/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login_test/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memcached_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memcached_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memcached_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memcached_test/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/xiaozhixin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/cms/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/cms/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/cms/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/cms/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/cms/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/common/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/common/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/front/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/front/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/front/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/front/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/cms/css/signin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/cms/cms_login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../post_file/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../post_file/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../post_file/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../post_file/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../post_file/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../post_file/templates/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redis_test/redis_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../signal_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../signal_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../signal_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../signal_test/signals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../signal_test/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../signal_test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../view_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../view_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../view_test/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../view_test/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../view_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../view_test/class_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../view_test/method_class_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../view_test/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../view_test/templates/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.idea/blog.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/apps/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/apps/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/apps/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/apps/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/apps/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/apps/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/apps/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/blog/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/blog/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/blog/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/blog/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_blog/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_re/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../re01/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../re01/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../re01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../re01/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis_test/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../redis_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis_test/pool_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis_test/redis_pool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis_test/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/templates/login.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/my_bbs$Flask__bbs_py_.coverage" NAME="Flask (bbs.py) Coverage Results" MODIFIED="1534248953278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1163040350">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="22" />
+          <entry key="dummy" value="3" />
+          <entry key="html" value="843" />
+          <entry key="py" value="5178" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Cython" value="5" />
+          <entry key="HTML" value="838" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="5200" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="4" />
+          <entry key="html" value="9" />
+          <entry key="py" value="70" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="9" />
+          <entry key="Python" value="70" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/cms/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+              <folding>
+                <marker date="1534249283543" expanded="true" signature="417:1328" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>js/jquery.min.js</find>
+      <find>js/bootstrap.min.js</find>
+      <find>images/icon_char_grey.png</find>
+      <find>js/jquery.nouislider.js</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>{{ url_for('static', filename='cms/js/jquery.min.js') }}</replace>
+      <replace>{{ url_for('static', filename='cms/js/bootstrap.min.js') }}</replace>
+      <replace>{{ url_for('static', filename='cms/images/icon_char_grey.png') }}</replace>
+      <replace>{{ url_for('static', filename='cms/js/jquery.nouislider.js') }}</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/apps/front/models.py" />
+        <option value="$PROJECT_DIR$/apps/front/views.py" />
+        <option value="$PROJECT_DIR$/apps/common/__init__.py" />
+        <option value="$PROJECT_DIR$/apps/front/__init__.py" />
+        <option value="$PROJECT_DIR$/apps/common/views.py" />
+        <option value="$PROJECT_DIR$/exts.py" />
+        <option value="$PROJECT_DIR$/apps/cms/__init__.py" />
+        <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/bbs.py" />
+        <option value="$PROJECT_DIR$/static/cms/signin.css" />
+        <option value="$PROJECT_DIR$/apps/cms/forms.py" />
+        <option value="$PROJECT_DIR$/apps/cms/models.py" />
+        <option value="$PROJECT_DIR$/templates/cms/cms_login.html" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/apps/cms/decorators.py" />
+        <option value="$PROJECT_DIR$/templates/cms/index.html" />
+        <option value="$PROJECT_DIR$/apps/cms/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="my_bbs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_bbs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_bbs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_bbs" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_bbs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_bbs" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_bbs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_bbs" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_bbs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_bbs" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_bbs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_bbs" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_bbs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_bbs" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="de&#9;FILE&#9;file:///Users/xiaozhixin/Desktop/web/my_bbs/apps/cms/decorators.py&#10;conf&#9;FILE&#9;file:///Users/xiaozhixin/Desktop/web/my_bbs/config.py&#10;bbs&#9;FILE&#9;file:///Users/xiaozhixin/Desktop/web/my_bbs/bbs.py&#10;man&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/cms/css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flask server.Flask (bbs.py)">
+    <configuration name="Flask (bbs.py)" type="Python.FlaskServer" factoryName="Flask server" temporary="true" nameIsGenerated="true">
+      <module name="my_bbs" />
+      <option name="target" value="$PROJECT_DIR$/bbs.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_bbs" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="my_bbs" />
+      <option name="target" value="$PROJECT_DIR$/bbs.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.my_bbs" />
+      <item itemvalue="Flask server.Flask (bbs.py)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flask server.Flask (bbs.py)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4faf3835-be18-4911-9802-45291a0359aa" name="Default Changelist" comment="" />
+      <created>1534228454105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534228454105</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22152779" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.22590837" />
+      <window_info x="310" y="436" width="1130" height="464" id="Python Console" order="2" sideWeight="0.5389105" side_tool="true" type="WINDOWED" weight="0.4599303" />
+      <window_info id="Favorites" order="3" side_tool="true" weight="0.32985073" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3288889" />
+      <window_info anchor="bottom" x="1" y="535" width="1439" height="365" id="Run" order="2" sideWeight="0.46129543" type="FLOATING" weight="0.33888888" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973614" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.5187166" weight="0.6828423" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5387046" side_tool="true" weight="0.23289473" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" sideWeight="0.49805447" weight="0.35006973" />
+      <window_info anchor="bottom" id="运行" order="11" sideWeight="0.41828793" weight="0.32775453" />
+      <window_info anchor="bottom" id="调试" order="12" weight="0.32775453" />
+      <window_info anchor="bottom" id="找到" order="13" />
+      <window_info anchor="bottom" x="0" y="554" width="1440" height="346" id="Terminal" order="14" sideWeight="0.71789885" type="WINDOWED" weight="0.64111114" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Mongo Explorer" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.17331022" />
+      <window_info anchor="right" id="Code Outline" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22152779" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.22590837" />
+      <window_info x="310" y="436" width="1130" height="464" id="Python Console" order="2" sideWeight="0.5389105" side_tool="true" type="WINDOWED" weight="0.4599303" />
+      <window_info id="Favorites" order="3" side_tool="true" weight="0.32985073" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3288889" />
+      <window_info anchor="bottom" x="1" y="535" width="1439" height="365" id="Run" order="2" sideWeight="0.46129543" type="FLOATING" weight="0.33888888" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973614" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.5187166" weight="0.6828423" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5387046" side_tool="true" weight="0.23289473" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" sideWeight="0.49805447" weight="0.35006973" />
+      <window_info anchor="bottom" id="运行" order="11" sideWeight="0.41828793" weight="0.32775453" />
+      <window_info anchor="bottom" id="调试" order="12" weight="0.32775453" />
+      <window_info anchor="bottom" id="找到" order="13" />
+      <window_info anchor="bottom" x="0" y="554" width="1440" height="346" id="Terminal" order="14" sideWeight="0.71789885" type="WINDOWED" weight="0.64111114" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Mongo Explorer" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.17331022" />
+      <window_info anchor="right" id="Code Outline" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/models.py" />
+    <entry file="file://$PROJECT_DIR$/apps/common/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/front/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/front/forms.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/common/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/front/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/front/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/common/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/cms/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bbs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+          <folding>
+            <marker date="1534232043225" expanded="true" signature="307:308" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding>
+            <marker date="1534231926074" expanded="true" signature="510:656" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/cms/css/signin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/cms/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <marker date="1534239010085" expanded="true" signature="136:368" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/cms/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+          <folding>
+            <marker date="1534240852510" expanded="true" signature="150:151" ph="..." />
+            <marker date="1534240852510" expanded="true" signature="150:185" ph="..." />
+            <marker date="1534240852510" expanded="true" signature="585:667" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/flask/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="157" selection-start-line="157" selection-end-line="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/cms/cms_login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="n#style#0;n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/cms/decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/cms/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/cms/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/cms/cms_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43071">
+          <caret line="2054" column="43" selection-start-line="2054" selection-start-column="43" selection-end-line="2054" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#9;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/cms/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <marker date="1534249283543" expanded="true" signature="417:1328" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

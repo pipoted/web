@@ -1,0 +1,56 @@
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<title>html learn</title>
+</head>
+<body>
+<div class="login_form">
+	<input type="text" id="changelist-form" title="">
+	<button id="button-test">this is button</button>
+</div>
+
+</body>
+<script>
+	let log = function () {
+		console.log.apply(console, arguments)
+	}
+	log('this is js begining')
+	let a = 1
+	let b = 'how'
+
+	let greeting = function () {
+		log('hello world')
+	}
+	var c = `
+		多行注释
+	`
+	var arr = [1, 2, 3]
+	arr.push(4)
+	log(arr)
+	log(arr.length)
+	var func_test = function (name) {
+		log('your name is', name)
+	}
+	func_test('xiao')
+	var obj = {
+		'key': 'value',
+		name: 'xiao',
+	}
+	log(obj)
+	log('key', obj.key)
+	var head = document.querySelector('head')
+
+	log(head)
+	var form = document.querySelector('.login_form')
+	log(form)
+	form.insertAdjacentHTML('beforeend', '<h1>hello world</h1>')
+
+	var button = document.querySelector('#button-test')
+	log(button)
+
+	var clicked = function () {
+		log('点击事件')
+	}
+	button.addEventListener('click', clicked)
+</script>
+</html>

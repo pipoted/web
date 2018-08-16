@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file:///usr/local/lib/python3.7/site-packages/flask_sqlalchemy/__init__.py" line="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98eb5b8a-9132-4a78-bd9f-937c97c60962" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../alembic_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alembic_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alembic_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alembic_test/modles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/.idea/dictionaries/xiaozhixin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/foreigen_key.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/news.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/query_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/sql_op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/sql_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/subdoadmin_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blueprint_test/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../filter_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../filter_test/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../filter_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../filter_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../filter_test/templates/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/xiaozhixin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/login_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/response_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/template_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/templates/href_test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_login/templates/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_template/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_template/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_template/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_template/templates/block_test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_template/templates/include_test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_template/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_template/test_hello_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../href_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../href_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../href_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../href_test/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../href_test/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login_test/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login_test/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../view_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../view_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../view_test/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../view_test/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../view_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../view_test/class_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../view_test/method_class_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../view_test/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../view_test/templates/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.idea/blog.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/apps/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/apps/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/apps/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/apps/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/apps/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/apps/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/apps/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/blog/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/blog/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/blog/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/blog/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_blog/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_re/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../re01/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../re01/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../re01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../re01/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis_test/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis_test/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis_test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis_test/pool_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis_test/redis_pool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis_test/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/templates/login.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/flask_sqlalchemy_test$flask_sqlalchemy_test.coverage" NAME="flask-sqlalchemy_test Coverage Results" MODIFIED="1534044196982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="flask_sql@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="flask_sql@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="flask_sql@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="flask_sql: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="flask_sql@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="flask_sql: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="article: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="flask_sql@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="flask_sql: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="user: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1300086094">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell" value="2" />
+          <entry key="dummy" value="1" />
+          <entry key="py" value="1486" />
+          <entry key="txt" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="Python" value="1486" />
+          <entry key="Scratch" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="article" value="2" />
+          <entry key="py" value="12" />
+          <entry key="sql" value="1" />
+          <entry key="user" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="4" />
+          <entry key="Python" value="12" />
+          <entry key="Scratch" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="798">
+              <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SQLALCHEMY_DATA</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/xiaozhixin/Desktop/web/flask-sqlalchemy_test/app.py&#10;app.py&#9;FILE&#9;file:///usr/local/lib/python3.7/site-packages/flask/app.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="flask-sqlalchemy_test" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="flask-sqlalchemy_test" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98eb5b8a-9132-4a78-bd9f-937c97c60962" name="Default Changelist" comment="" />
+      <created>1534041759982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534041759982</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.41805556" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.22569445" />
+      <window_info x="1063" y="436" width="120" height="50" id="Python Console" order="2" sideWeight="0.5389105" side_tool="true" type="WINDOWED" weight="0.4599303" />
+      <window_info id="Favorites" order="3" side_tool="true" weight="0.32985073" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" x="1" y="535" width="1439" height="365" id="Run" order="2" sideWeight="0.46129543" type="FLOATING" weight="0.3392613" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973614" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.5187166" weight="0.68222225" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5387046" side_tool="true" weight="0.23289473" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" sideWeight="0.49805447" weight="0.35006973" />
+      <window_info anchor="bottom" id="运行" order="11" sideWeight="0.41828793" weight="0.32775453" />
+      <window_info anchor="bottom" id="调试" order="12" weight="0.32775453" />
+      <window_info anchor="bottom" id="找到" order="13" />
+      <window_info anchor="bottom" x="0" y="554" width="806" height="346" id="Terminal" order="14" sideWeight="0.71789885" type="WINDOWED" weight="0.25581396" />
+      <window_info anchor="bottom" id="Database Console" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Mongo Explorer" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3298611" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.17331022" />
+      <window_info anchor="right" id="Code Outline" order="7" />
+      <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" order="8" side_tool="true" weight="0.3298611" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/local/lib/python3.7/site-packages/flask_sqlalchemy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="539" column="52" selection-start-line="539" selection-start-column="37" selection-end-line="539" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0dc8734a-cb76-4fc6-a2d5-08d9c7dd775f/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://0dc8734a-cb76-4fc6-a2d5-08d9c7dd775f/schema/flask_sql/table/user" />
+    <entry file="das://0dc8734a-cb76-4fc6-a2d5-08d9c7dd775f/schema/flask_sql/table/article" />
+    <entry file="file:///usr/local/lib/python3.7/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="394" column="13" selection-start-line="394" selection-start-column="13" selection-end-line="394" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
